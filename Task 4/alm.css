@@ -1,0 +1,42 @@
+
+
+
+body{
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+
+
+.container{
+
+    border: 2px solid;
+    padding-top: 2px;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: rgba(57, 78, 237, 0.811);
+}
+section{
+    margin-top: 10px;
+    margin-left: 2PX;
+    width: 400px;
+    height: 350px;
+    box-shadow: 2px 2px 2px black;  
+    border: solid black 2px;
+    display: inline-block;
+    background-color: antiquewhite;
+    vertical-align: top;
+    
+}
+img{
+    width: 100%;
+    height: 300px;
+    border: 2px solid black;
+}
+
+h1{
+    background-color: rgba(227, 133, 10, 0.845);
+    font-family: Arial, Helvetica, sans-serif;
+}
+

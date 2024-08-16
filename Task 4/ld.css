@@ -1,0 +1,60 @@
+
+*{
+
+    background-color: skyblue;
+
+    box-sizing: border-box;
+    WIDTH:100%;
+
+}
+
+header{
+    padding:64px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: black;
+    border-color: aqua;
+}
+#d1{
+    text-align: justify;
+    padding-left: 3.5%;
+width: 65%;
+height: 30%;
+margin-top: 15px;
+margin-left: 5px;
+display: inline-block;
+
+}
+#d2{
+    padding-top: 2.5px;
+    padding-left: 2.5px;
+    padding-right: 2.5px;
+    margin-top: 2px;
+    margin-left: 1px;
+    
+ 
+  
+    background-color:black;
+  padding-bottom: 2.5px;
+}
+#s1{
+    background-color:  brown;
+    padding-right: 2px;
+    padding-left: 2px;
+    margin-top: 2.5px;
+    margin-left: 2.5px;
+        width: 30%;
+        margin-top: 2.5px;
+        margin-bottom: 2.5px;
+        display: inline-block;
+        vertical-align: top;
+ 
+}
+
+
+
+
+
+
+
+
